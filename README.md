@@ -15,6 +15,7 @@ Use linalg.inv(A) for to find the inverse of the matrix.
 Print the output values.
 
 ## Program: 
+```
 #Program to find the inverse of a matrix.
 
 #Developed by: NITHISHWAR S
@@ -28,7 +29,7 @@ A=numpy.array([[2,1,1],[1,1,1],[1,-1,2]])
 val=numpy.linalg.inv(A)
 
 print(val)
-
+```
 ## Output:
 
 ![image](https://user-images.githubusercontent.com/94164665/144366028-08bf7096-ae5d-4b61-9028-0d1ec3511445.png)
